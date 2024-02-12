@@ -1,0 +1,8 @@
+﻿  Assignment1.cpp
+C:\Users\haako\source\repos\Assignment1\Assignment1\Assignment1.cpp(464,26): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\haako\source\repos\Assignment1\Assignment1\Assignment1.cpp(467,26): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\haako\source\repos\Assignment1\Assignment1\Assignment1.cpp(470,26): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\haako\source\repos\Assignment1\Assignment1\Assignment1.cpp(473,26): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\haako\source\repos\Assignment1\Assignment1\Assignment1.cpp(532,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\haako\source\repos\Assignment1\Assignment1\Assignment1.cpp(535,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment1.vcxproj -> C:\Users\haako\source\repos\Assignment1\x64\Debug\Assignment1.exe
